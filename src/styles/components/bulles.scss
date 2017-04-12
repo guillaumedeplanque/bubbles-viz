@@ -1,0 +1,11 @@
+.bubbles {
+    span {
+        display: none;
+    }
+    #svg-wrapper {
+    	width: 100%;
+     	image {
+        	clip-path: circle(50% at center);
+        }
+	}
+}
