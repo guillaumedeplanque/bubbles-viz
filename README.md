@@ -9,4 +9,4 @@ Dynamic, random & animated data-visualization in bubbles (using D3.js)
 * Replace svg <image> element by circle with image-fill
 * Let the possibility to visualize text or image
 * Add JSON support for data
-* Rewrtie & refactor the project to a JavaScript library  & create a NPM module \o/
+* Rewrite & refactor the project to a JavaScript library  & create a NPM module \o/
