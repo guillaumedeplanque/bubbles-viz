@@ -1,6 +1,8 @@
 # bubbles-viz
 Dynamic, random & animated data-visualization in bubbles (using D3.js)
 
+![Kitten moving !](http://g.recordit.co/qnuSTlvAQx.gif)
+
 ## Install
     npm install && webpack
     node server.js
